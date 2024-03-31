@@ -86,6 +86,10 @@ Efficiency was prioritized throughout the development process:
 
 3. **Accessing the API**: Use the provided API endpoint (`GET /balance/:address`) to retrieve Ethereum account balances by specifying the account address.
 
+## Conclusion
+
+Efficiently retrieving Ethereum account balances requires careful consideration of various factors, including network access, data handling, and error management. By leveraging web3.js and implementing best practices, this project offers a reliable and performant solution for interacting with the Ethereum blockchain.
+
 ## Task 02: Implement API Endpoints with Filtering Options
 
 ### Objective:
@@ -98,10 +102,6 @@ Develop API endpoints to fetch data from a public API with filtering options.
 
 ### Implementation:
 The API endpoints are created in Express.js to fetch data from the provided public API. Filtering options for categories and result limits are implemented to allow users to retrieve specific data based on their preferences.
-
-## Conclusion
-
-Efficiently retrieving Ethereum account balances requires careful consideration of various factors, including network access, data handling, and error management. By leveraging web3.js and implementing best practices, this project offers a reliable and performant solution for interacting with the Ethereum blockchain.
 
 ## Credits
 
